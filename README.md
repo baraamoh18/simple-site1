@@ -1,2 +1,2 @@
-# simple-site1
-this is my first project as a front-end dev using HTML/CSS 
+# simple-sites
+this is my first 2 projects as a front-end dev using HTML/CSS 
